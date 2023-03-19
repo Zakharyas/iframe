@@ -1,0 +1,15 @@
+.frame{
+    background-color: grey;
+    margin: auto;
+    width: 800px;
+    height: 400px;
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 1px 1px 1px gray;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
